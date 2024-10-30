@@ -6,9 +6,9 @@ Project Overview
 
 This project integrates:
 
-   *Luxonis DepthAI Stereo Camera: Captures stereo images, which are processed to estimate distances to detected objects.
-   *YOLOv6 Object Detection: Uses a pre-trained YOLOv6 model to detect a wide range of objects.
-   *Depth Calculation: Employs stereo vision principles to estimate object distance using disparity maps.
+   -Luxonis DepthAI Stereo Camera: Captures stereo images, which are processed to estimate distances to detected objects.
+   -YOLOv6 Object Detection: Uses a pre-trained YOLOv6 model to detect a wide range of objects.
+   -Depth Calculation: Employs stereo vision principles to estimate object distance using disparity maps.
 
 Key Features
 
