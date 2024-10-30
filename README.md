@@ -17,3 +17,11 @@ This project integrates:
 To install the necessary dependencies, run:
 ```bash
 pip install -r requirements.txt
+
+
+## Requirements:
+
+    Python 3.8+
+    opencv-python==4.5.5.64
+    depthai==2.26.0.0
+    numpy
