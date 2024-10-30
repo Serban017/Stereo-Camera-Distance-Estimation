@@ -1,6 +1,3 @@
-Here's a Markdown version for your GitHub README:
-
-```markdown
 # Object Detection and Distance Estimation with DepthAI and YOLOv6
 
 This repository contains the code for my final university project, which was essential in earning my bachelor's degree. The project demonstrates a Python-based system for real-time object detection and distance estimation using Luxonis' DepthAI platform with a stereo camera setup. The YOLOv6 model is utilized for accurate object detection, and DepthAI's API enables precise depth calculations.
@@ -25,31 +22,3 @@ To install the necessary dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-```
-
-### Requirements
-
-- Python 3.8+
-- `opencv-python==4.5.5.64`
-- `depthai==2.26.0.0`
-- `numpy`
-
-## Usage
-
-1. Connect the DepthAI device.
-2. Run the main script:
-
-```bash
-python main.py
-```
-
-The system will display live object detection with distance estimates overlayed on each detected object.
-
-## Future Improvements
-
-- Enhanced object tracking.
-- Optimized distance calculations for varying environmental conditions.
-
-```
-
-This README layout is clear and provides all necessary details for users to set up and use your project.
