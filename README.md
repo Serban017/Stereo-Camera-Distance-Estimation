@@ -36,3 +36,7 @@ pip install -r requirements.txt
   python main.py
   ```
 The system will display live object detection with distance estimates overlayed on each detected object.
+![Picture1](https://github.com/user-attachments/assets/5aef90df-1703-4030-bae1-6707adfe7563)
+![Picture3](https://github.com/user-attachments/assets/258fcb7b-2c67-4414-ab31-ee7666c52a52)
+![Picture2](https://github.com/user-attachments/assets/d92f98c4-3a58-47cc-ab4c-24b05ba4ff80)
+![Picture4](https://github.com/user-attachments/assets/f7cb3a8b-dd68-4c80-b195-b8c747f5b048)
