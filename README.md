@@ -23,5 +23,16 @@ To install the necessary dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
-##Requirements
+## Requirements
 - Python 3.8+
+- opencv-python==4.5.5.64
+- depthai==2.26.0.0
+- numpy
+
+## Usage
+- Connect the DepthAI device.
+- Run the main script:
+  ```bash
+  python main.py
+  ```
+The system will display live object detection with distance estimates overlayed on each detected object.
